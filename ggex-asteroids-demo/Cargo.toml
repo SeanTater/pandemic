@@ -1,0 +1,9 @@
+[package]
+name = "ggex-asteroids-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+getrandom = "0.2.15"
+ggez = "0.9.3"
+oorandom = "11.1.3"
